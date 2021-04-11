@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 Js Assignment Changesss
+=======
+Js Assignment Changes
+>>>>>>> js-assignments
 
 CSS Assignment Branch
 
